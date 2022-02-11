@@ -1,6 +1,10 @@
 # thegawriproject
 A not-for-profit project to promote the Gawri language.
 
+About: 
+Gawri is one of the 70 languages of Pakistan, spoken in the northern parts of the country. It is spoken in the Kohistani (mountainous) areas of district Swat and Upper Dir in Khyber Pakhtunkhwa Province.
+
+
 Sources:
 1. https://github.com/rachitralli/Rachitrali-Gawri-Keyboard
 2. https://gawri.org/en/adult-literacy-project
